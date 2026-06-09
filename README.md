@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devashish-Sinha
-- 👀 I’m interested in Coding, Designing, World Affair & Bussiness Case Studies
+- 👀 I’m interested in Coding, Designing, AI World & Bussiness Case Studies
 - 🌱 I’m currently learning Java Full Stack Development
 - 📫 reach me at devashishsinha662@gmail.com
 
